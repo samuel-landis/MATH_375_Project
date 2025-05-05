@@ -1,1 +1,1 @@
-# MATH_375_Project
+# Gaussian Continuous Cellular Automaton
